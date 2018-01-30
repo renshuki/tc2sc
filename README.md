@@ -11,3 +11,4 @@ Depend on the size of the file you want to convert. Be aware it can take a long 
 
 ## Todo 
 - **Optimize** to reduce number of loops (maybe `sed` is not the best choice here)
+- Feel free to complete the .csv list
