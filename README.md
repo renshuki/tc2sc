@@ -12,3 +12,8 @@ Depend on the size of the file you want to convert. Be aware it can take a long 
 ## Todo 
 - **Optimize** to reduce number of loops (maybe `sed` is not the best choice here)
 - Feel free to complete the .csv list
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/renshuki/tc2sc/badge.svg?style=beer-square)](https://beerpay.io/renshuki/tc2sc)  [![Beerpay](https://beerpay.io/renshuki/tc2sc/make-wish.svg?style=flat-square)](https://beerpay.io/renshuki/tc2sc?focus=wish)
